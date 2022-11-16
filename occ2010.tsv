@@ -1,0 +1,460 @@
+OCC2010	OccGroup	Occupation
+0010	MANAGEMENT	Chief executives and legislators/public administration
+0020	MANAGEMENT	General and Operations Managers
+0030	MANAGEMENT	Managers in Marketing, Advertising, and Public Relations
+0100	MANAGEMENT	Administrative Services Managers
+0110	MANAGEMENT	Computer and Information Systems Managers
+0120	MANAGEMENT	Financial Managers
+0130	MANAGEMENT	Human Resources Managers
+0140	MANAGEMENT	Industrial Production Managers
+0150	MANAGEMENT	Purchasing Managers
+0160	MANAGEMENT	Transportation, Storage, and Distribution Managers
+0205	MANAGEMENT	Farmers, Ranchers, and Other Agricultural Managers
+0220	MANAGEMENT	Constructions Managers
+0230	MANAGEMENT	Education Administrators
+0300	MANAGEMENT	Architectural and Engineering Managers
+0310	MANAGEMENT	Food Service and Lodging Managers
+0320	MANAGEMENT	Funeral Directors
+0330	MANAGEMENT	Gaming Managers
+0350	MANAGEMENT	Medical and Health Services Managers
+0360	MANAGEMENT	Natural Science Managers
+0410	MANAGEMENT	Property, Real Estate, and Community Association Managers
+0420	MANAGEMENT	Social and Community Service Managers
+0430	MANAGEMENT	Managers, nec (including Postmasters)
+0500	BUSINESS OPERATIONS SPECIALISTS	Agents and Business Managers of Artists, Performers, and Athletes
+0510	BUSINESS OPERATIONS SPECIALISTS	Buyers and Purchasing Agents, Farm Products
+0520	BUSINESS OPERATIONS SPECIALISTS	Wholesale and Retail Buyers, Except Farm Products
+0530	BUSINESS OPERATIONS SPECIALISTS	Purchasing Agents, Except Wholesale, Retail, and Farm Products
+0540	BUSINESS OPERATIONS SPECIALISTS	Claims Adjusters, Appraisers, Examiners, and Investigators
+0560	BUSINESS OPERATIONS SPECIALISTS	Compliance Officers, Except Agriculture
+0600	BUSINESS OPERATIONS SPECIALISTS	Cost Estimators
+0620	BUSINESS OPERATIONS SPECIALISTS	Human Resources, Training, and Labor Relations Specialists
+0700	BUSINESS OPERATIONS SPECIALISTS	Logisticians
+0710	BUSINESS OPERATIONS SPECIALISTS	Management Analysts
+0720	BUSINESS OPERATIONS SPECIALISTS	Meeting and Convention Planners
+0730	BUSINESS OPERATIONS SPECIALISTS	Other Business Operations and Management Specialists
+0800	FINANCIAL SPECIALISTS	Accountants and Auditors
+0810	FINANCIAL SPECIALISTS	Appraisers and Assessors of Real Estate
+0820	FINANCIAL SPECIALISTS	Budget Analysts
+0830	FINANCIAL SPECIALISTS	Credit Analysts
+0840	FINANCIAL SPECIALISTS	Financial Analysts
+0850	FINANCIAL SPECIALISTS	Personal Financial Advisors
+0860	FINANCIAL SPECIALISTS	Insurance Underwriters
+0900	FINANCIAL SPECIALISTS	Financial Examiners
+0910	FINANCIAL SPECIALISTS	Credit Counselors and Loan Officers
+0930	FINANCIAL SPECIALISTS	Tax Examiners and Collectors, and Revenue Agents
+0940	FINANCIAL SPECIALISTS	Tax Preparers
+0950	FINANCIAL SPECIALISTS	Financial Specialists, nec
+1000	COMPUTER AND MATHEMATICAL	Computer Scientists and Systems Analysts/Network systems Analysts/Web Developers
+1010	COMPUTER AND MATHEMATICAL	Computer Programmers
+1020	COMPUTER AND MATHEMATICAL	Software Developers, Applications and Systems Software
+1050	COMPUTER AND MATHEMATICAL	Computer Support Specialists
+1060	COMPUTER AND MATHEMATICAL	Database Administrators
+1100	COMPUTER AND MATHEMATICAL	Network and Computer Systems Administrators
+1200	COMPUTER AND MATHEMATICAL	Actuaries
+1220	COMPUTER AND MATHEMATICAL	Operations Research Analysts
+1230	COMPUTER AND MATHEMATICAL	Statisticians
+1240	COMPUTER AND MATHEMATICAL	Mathematical science occupations, nec
+1300	ARCHITECTURE AND ENGINEERING	Architects, Except Naval
+1310	ARCHITECTURE AND ENGINEERING	Surveyors, Cartographers, and Photogrammetrists
+1320	ARCHITECTURE AND ENGINEERING	Aerospace Engineers
+1350	ARCHITECTURE AND ENGINEERING	Chemical Engineers
+1360	ARCHITECTURE AND ENGINEERING	Civil Engineers
+1400	ARCHITECTURE AND ENGINEERING	Computer Hardware Engineers
+1410	ARCHITECTURE AND ENGINEERING	Electrical and Electronics Engineers
+1420	ARCHITECTURE AND ENGINEERING	Environmental Engineers
+1430	ARCHITECTURE AND ENGINEERING	Industrial Engineers, including Health and Safety
+1440	ARCHITECTURE AND ENGINEERING	Marine Engineers and Naval Architects
+1450	ARCHITECTURE AND ENGINEERING	Materials Engineers
+1460	ARCHITECTURE AND ENGINEERING	Mechanical Engineers
+1520	ARCHITECTURE AND ENGINEERING	Petroleum, mining and geological engineers, including mining safety engineers
+1530	ARCHITECTURE AND ENGINEERING	Engineers, nec
+1540	ARCHITECTURE AND ENGINEERING	Drafters
+1550	TECHNICIANS	Engineering Technicians, Except Drafters
+1560	TECHNICIANS	Surveying and Mapping Technicians
+1600	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Agricultural and Food Scientists
+1610	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Biological Scientists
+1640	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Conservation Scientists and Foresters
+1650	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Medical Scientists, and Life Scientists, All Other
+1700	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Astronomers and Physicists
+1710	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Atmospheric and Space Scientists
+1720	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Chemists and Materials Scientists
+1740	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Environmental Scientists and Geoscientists
+1760	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Physical Scientists, nec
+1800	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Economists and market researchers
+1820	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Psychologists
+1830	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Urban and Regional Planners
+1840	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Social Scientists, nec
+1900	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Agricultural and Food Science Technicians
+1910	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Biological Technicians
+1920	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Chemical Technicians
+1930	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Geological and Petroleum Technicians, and Nuclear Technicians
+1960	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Life, Physical, and Social Science Technicians, nec
+1980	LIFE, PHYSICAL, AND SOCIAL SCIENCE	Professional, Research, or Technical Workers, nec
+2000	COMMUNITY AND SOCIAL SERVICES	Counselors
+2010	COMMUNITY AND SOCIAL SERVICES	Social Workers
+2020	COMMUNITY AND SOCIAL SERVICES	Community and Social Service Specialists, nec
+2040	COMMUNITY AND SOCIAL SERVICES	Clergy
+2050	COMMUNITY AND SOCIAL SERVICES	Directors, Religious Activities and Education
+2060	COMMUNITY AND SOCIAL SERVICES	Religious Workers, nec
+2100	LEGAL	Lawyers, and judges, magistrates, and other judicial workers
+2140	LEGAL	Paralegals and Legal Assistants
+2150	LEGAL	Legal Support Workers, nec
+2200	EDUCATION, TRAINING, AND LIBRARY	Postsecondary Teachers
+2300	EDUCATION, TRAINING, AND LIBRARY	Preschool and Kindergarten Teachers
+2310	EDUCATION, TRAINING, AND LIBRARY	Elementary and Middle School Teachers
+2320	EDUCATION, TRAINING, AND LIBRARY	Secondary School Teachers
+2330	EDUCATION, TRAINING, AND LIBRARY	Special Education Teachers
+2340	EDUCATION, TRAINING, AND LIBRARY	Other Teachers and Instructors
+2400	EDUCATION, TRAINING, AND LIBRARY	Archivists, Curators, and Museum Technicians
+2430	EDUCATION, TRAINING, AND LIBRARY	Librarians
+2440	EDUCATION, TRAINING, AND LIBRARY	Library Technicians
+2540	EDUCATION, TRAINING, AND LIBRARY	Teacher Assistants
+2550	EDUCATION, TRAINING, AND LIBRARY	Education, Training, and Library Workers, nec
+2600	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Artists and Related Workers
+2630	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Designers
+2700	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Actors, Producers, and Directors
+2720	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Athletes, Coaches, Umpires, and Related Workers
+2740	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Dancers and Choreographers
+2750	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Musicians, Singers, and Related Workers
+2760	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Entertainers and Performers, Sports and Related Workers, All Other
+2800	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Announcers
+2810	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Editors, News Analysts, Reporters, and Correspondents
+2825	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Public Relations Specialists
+2840	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Technical Writers
+2850	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Writers and Authors
+2860	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Media and Communication Workers, nec
+2900	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Broadcast and Sound Engineering Technicians and Radio Operators, and media and communication equipment workers, all other
+2910	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Photographers
+2920	ARTS, DESIGN, ENTERTAINMENT, SPORTS, AND MEDIA	Television, Video, and Motion Picture Camera Operators and Editors
+3000	HEALTHCARE PRACTITIONERS AND TECHNICAL	Chiropractors
+3010	HEALTHCARE PRACTITIONERS AND TECHNICAL	Dentists
+3030	HEALTHCARE PRACTITIONERS AND TECHNICAL	Dieticians and Nutritionists
+3040	HEALTHCARE PRACTITIONERS AND TECHNICAL	Optometrists
+3050	HEALTHCARE PRACTITIONERS AND TECHNICAL	Pharmacists
+3060	HEALTHCARE PRACTITIONERS AND TECHNICAL	Physicians and Surgeons
+3110	HEALTHCARE PRACTITIONERS AND TECHNICAL	Physician Assistants
+3120	HEALTHCARE PRACTITIONERS AND TECHNICAL	Podiatrists
+3130	HEALTHCARE PRACTITIONERS AND TECHNICAL	Registered Nurses
+3140	HEALTHCARE PRACTITIONERS AND TECHNICAL	Audiologists
+3150	HEALTHCARE PRACTITIONERS AND TECHNICAL	Occupational Therapists
+3160	HEALTHCARE PRACTITIONERS AND TECHNICAL	Physical Therapists
+3200	HEALTHCARE PRACTITIONERS AND TECHNICAL	Radiation Therapists
+3210	HEALTHCARE PRACTITIONERS AND TECHNICAL	Recreational Therapists
+3220	HEALTHCARE PRACTITIONERS AND TECHNICAL	Respiratory Therapists
+3230	HEALTHCARE PRACTITIONERS AND TECHNICAL	Speech Language Pathologists
+3240	HEALTHCARE PRACTITIONERS AND TECHNICAL	Therapists, nec
+3250	HEALTHCARE PRACTITIONERS AND TECHNICAL	Veterinarians
+3260	HEALTHCARE PRACTITIONERS AND TECHNICAL	Health Diagnosing and Treating Practitioners, nec
+3300	HEALTHCARE PRACTITIONERS AND TECHNICAL	Clinical Laboratory Technologists and Technicians
+3310	HEALTHCARE PRACTITIONERS AND TECHNICAL	Dental Hygienists
+3320	HEALTHCARE PRACTITIONERS AND TECHNICAL	Diagnostic Related Technologists and Technicians
+3400	HEALTHCARE PRACTITIONERS AND TECHNICAL	Emergency Medical Technicians and Paramedics
+3410	HEALTHCARE PRACTITIONERS AND TECHNICAL	Health Diagnosing and Treating Practitioner Support Technicians
+3500	HEALTHCARE PRACTITIONERS AND TECHNICAL	Licensed Practical and Licensed Vocational Nurses
+3510	HEALTHCARE PRACTITIONERS AND TECHNICAL	Medical Records and Health Information Technicians
+3520	HEALTHCARE PRACTITIONERS AND TECHNICAL	Opticians, Dispensing
+3530	HEALTHCARE PRACTITIONERS AND TECHNICAL	Health Technologists and Technicians, nec
+3540	HEALTHCARE PRACTITIONERS AND TECHNICAL	Healthcare Practitioners and Technical Occupations, nec
+3600	HEALTHCARE SUPPORT	Nursing, Psychiatric, and Home Health Aides
+3610	HEALTHCARE SUPPORT	Occupational Therapy Assistants and Aides
+3620	HEALTHCARE SUPPORT	Physical Therapist Assistants and Aides
+3630	HEALTHCARE SUPPORT	Massage Therapists
+3640	HEALTHCARE SUPPORT	Dental Assistants
+3650	HEALTHCARE SUPPORT	Medical Assistants and Other Healthcare Support Occupations, nec
+3700	PROTECTIVE SERVICE	First-Line Supervisors of Correctional Officers
+3710	PROTECTIVE SERVICE	First-Line Supervisors of Police and Detectives
+3720	PROTECTIVE SERVICE	First-Line Supervisors of Fire Fighting and Prevention Workers
+3730	PROTECTIVE SERVICE	Supervisors, Protective Service Workers, All Other
+3740	PROTECTIVE SERVICE	Firefighters
+3750	PROTECTIVE SERVICE	Fire Inspectors
+3800	PROTECTIVE SERVICE	Sheriffs, Bailiffs, Correctional Officers, and Jailers
+3820	PROTECTIVE SERVICE	Police Officers and Detectives
+3900	PROTECTIVE SERVICE	Animal Control
+3910	PROTECTIVE SERVICE	Private Detectives and Investigators
+3930	PROTECTIVE SERVICE	Security Guards and Gaming Surveillance Officers
+3940	PROTECTIVE SERVICE	Crossing Guards
+3950	PROTECTIVE SERVICE	Law enforcement workers, nec
+4000	FOOD PREPARATION AND SERVING	Chefs and Cooks
+4010	FOOD PREPARATION AND SERVING	First-Line Supervisors of Food Preparation and Serving Workers
+4030	FOOD PREPARATION AND SERVING	Food Preparation Workers
+4040	FOOD PREPARATION AND SERVING	Bartenders
+4050	FOOD PREPARATION AND SERVING	Combined Food Preparation and Serving Workers, Including Fast Food
+4060	FOOD PREPARATION AND SERVING	Counter Attendant, Cafeteria, Food Concession, and Coffee Shop
+4110	FOOD PREPARATION AND SERVING	Waiters and Waitresses
+4120	FOOD PREPARATION AND SERVING	Food Servers, Nonrestaurant
+4130	FOOD PREPARATION AND SERVING	Food preparation and serving related workers, nec
+4140	FOOD PREPARATION AND SERVING	Dishwashers
+4150	FOOD PREPARATION AND SERVING	Host and Hostesses, Restaurant, Lounge, and Coffee Shop
+4200	BUILDING AND GROUNDS CLEANING AND MAINTENANCE	First-Line Supervisors of Housekeeping and Janitorial Workers
+4210	BUILDING AND GROUNDS CLEANING AND MAINTENANCE	First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+4220	BUILDING AND GROUNDS CLEANING AND MAINTENANCE	Janitors and Building Cleaners
+4230	BUILDING AND GROUNDS CLEANING AND MAINTENANCE	Maids and Housekeeping Cleaners
+4240	BUILDING AND GROUNDS CLEANING AND MAINTENANCE	Pest Control Workers
+4250	BUILDING AND GROUNDS CLEANING AND MAINTENANCE	Grounds Maintenance Workers
+4300	PERSONAL CARE AND SERVICE	First-Line Supervisors of Gaming Workers
+4320	PERSONAL CARE AND SERVICE	First-Line Supervisors of Personal Service Workers
+4340	PERSONAL CARE AND SERVICE	Animal Trainers
+4350	PERSONAL CARE AND SERVICE	Nonfarm Animal Caretakers
+4400	PERSONAL CARE AND SERVICE	Gaming Services Workers
+4420	PERSONAL CARE AND SERVICE	Ushers, Lobby Attendants, and Ticket Takers
+4430	PERSONAL CARE AND SERVICE	Entertainment Attendants and Related Workers, nec
+4460	PERSONAL CARE AND SERVICE	Funeral Service Workers and Embalmers
+4500	PERSONAL CARE AND SERVICE	Barbers
+4510	PERSONAL CARE AND SERVICE	Hairdressers, Hairstylists, and Cosmetologists
+4520	PERSONAL CARE AND SERVICE	Personal Appearance Workers, nec
+4530	PERSONAL CARE AND SERVICE	Baggage Porters, Bellhops, and Concierges
+4540	PERSONAL CARE AND SERVICE	Tour and Travel Guides
+4600	PERSONAL CARE AND SERVICE	Childcare Workers
+4610	PERSONAL CARE AND SERVICE	Personal Care Aides
+4620	PERSONAL CARE AND SERVICE	Recreation and Fitness Workers
+4640	PERSONAL CARE AND SERVICE	Residential Advisors
+4650	PERSONAL CARE AND SERVICE	Personal Care and Service Workers, All Other
+4700	SALES AND RELATED	First-Line Supervisors of Sales Workers
+4720	SALES AND RELATED	Cashiers
+4740	SALES AND RELATED	Counter and Rental Clerks
+4750	SALES AND RELATED	Parts Salespersons
+4760	SALES AND RELATED	Retail Salespersons
+4800	SALES AND RELATED	Advertising Sales Agents
+4810	SALES AND RELATED	Insurance Sales Agents
+4820	SALES AND RELATED	Securities, Commodities, and Financial Services Sales Agents
+4830	SALES AND RELATED	Travel Agents
+4840	SALES AND RELATED	Sales Representatives, Services, All Other
+4850	SALES AND RELATED	Sales Representatives, Wholesale and Manufacturing
+4900	SALES AND RELATED	Models, Demonstrators, and Product Promoters
+4920	SALES AND RELATED	Real Estate Brokers and Sales Agents
+4930	SALES AND RELATED	Sales Engineers
+4940	SALES AND RELATED	Telemarketers
+4950	SALES AND RELATED	Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+4965	SALES AND RELATED	Sales and Related Workers, All Other
+5000	OFFICE AND ADMINISTRATIVE SUPPORT	First-Line Supervisors of Office and Administrative Support Workers
+5010	OFFICE AND ADMINISTRATIVE SUPPORT	Switchboard Operators, Including Answering Service
+5020	OFFICE AND ADMINISTRATIVE SUPPORT	Telephone Operators
+5030	OFFICE AND ADMINISTRATIVE SUPPORT	Communications Equipment Operators, All Other
+5100	OFFICE AND ADMINISTRATIVE SUPPORT	Bill and Account Collectors
+5110	OFFICE AND ADMINISTRATIVE SUPPORT	Billing and Posting Clerks
+5120	OFFICE AND ADMINISTRATIVE SUPPORT	Bookkeeping, Accounting, and Auditing Clerks
+5130	OFFICE AND ADMINISTRATIVE SUPPORT	Gaming Cage Workers
+5140	OFFICE AND ADMINISTRATIVE SUPPORT	Payroll and Timekeeping Clerks
+5150	OFFICE AND ADMINISTRATIVE SUPPORT	Procurement Clerks
+5160	OFFICE AND ADMINISTRATIVE SUPPORT	Bank Tellers
+5165	OFFICE AND ADMINISTRATIVE SUPPORT	Financial Clerks, nec
+5200	OFFICE AND ADMINISTRATIVE SUPPORT	Brokerage Clerks
+5220	OFFICE AND ADMINISTRATIVE SUPPORT	Court, Municipal, and License Clerks
+5230	OFFICE AND ADMINISTRATIVE SUPPORT	Credit Authorizers, Checkers, and Clerks
+5240	OFFICE AND ADMINISTRATIVE SUPPORT	Customer Service Representatives
+5250	OFFICE AND ADMINISTRATIVE SUPPORT	Eligibility Interviewers, Government Programs
+5260	OFFICE AND ADMINISTRATIVE SUPPORT	File Clerks
+5300	OFFICE AND ADMINISTRATIVE SUPPORT	Hotel, Motel, and Resort Desk Clerks
+5310	OFFICE AND ADMINISTRATIVE SUPPORT	Interviewers, Except Eligibility and Loan
+5320	OFFICE AND ADMINISTRATIVE SUPPORT	Library Assistants, Clerical
+5330	OFFICE AND ADMINISTRATIVE SUPPORT	Loan Interviewers and Clerks
+5340	OFFICE AND ADMINISTRATIVE SUPPORT	New Account Clerks
+5350	OFFICE AND ADMINISTRATIVE SUPPORT	Correspondent clerks and order clerks
+5360	OFFICE AND ADMINISTRATIVE SUPPORT	Human Resources Assistants, Except Payroll and Timekeeping
+5400	OFFICE AND ADMINISTRATIVE SUPPORT	Receptionists and Information Clerks
+5410	OFFICE AND ADMINISTRATIVE SUPPORT	Reservation and Transportation Ticket Agents and Travel Clerks
+5420	OFFICE AND ADMINISTRATIVE SUPPORT	Information and Record Clerks, All Other
+5500	OFFICE AND ADMINISTRATIVE SUPPORT	Cargo and Freight Agents
+5510	OFFICE AND ADMINISTRATIVE SUPPORT	Couriers and Messengers
+5520	OFFICE AND ADMINISTRATIVE SUPPORT	Dispatchers
+5530	OFFICE AND ADMINISTRATIVE SUPPORT	Meter Readers, Utilities
+5540	OFFICE AND ADMINISTRATIVE SUPPORT	Postal Service Clerks
+5550	OFFICE AND ADMINISTRATIVE SUPPORT	Postal Service Mail Carriers
+5560	OFFICE AND ADMINISTRATIVE SUPPORT	Postal Service Mail Sorters, Processors, and Processing Machine Operators
+5600	OFFICE AND ADMINISTRATIVE SUPPORT	Production, Planning, and Expediting Clerks
+5610	OFFICE AND ADMINISTRATIVE SUPPORT	Shipping, Receiving, and Traffic Clerks
+5620	OFFICE AND ADMINISTRATIVE SUPPORT	Stock Clerks and Order Fillers
+5630	OFFICE AND ADMINISTRATIVE SUPPORT	Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+5700	OFFICE AND ADMINISTRATIVE SUPPORT	Secretaries and Administrative Assistants
+5800	OFFICE AND ADMINISTRATIVE SUPPORT	Computer Operators
+5810	OFFICE AND ADMINISTRATIVE SUPPORT	Data Entry Keyers
+5820	OFFICE AND ADMINISTRATIVE SUPPORT	Word Processors and Typists
+5840	OFFICE AND ADMINISTRATIVE SUPPORT	Insurance Claims and Policy Processing Clerks
+5850	OFFICE AND ADMINISTRATIVE SUPPORT	Mail Clerks and Mail Machine Operators, Except Postal Service
+5860	OFFICE AND ADMINISTRATIVE SUPPORT	Office Clerks, General
+5900	OFFICE AND ADMINISTRATIVE SUPPORT	Office Machine Operators, Except Computer
+5910	OFFICE AND ADMINISTRATIVE SUPPORT	Proofreaders and Copy Markers
+5920	OFFICE AND ADMINISTRATIVE SUPPORT	Statistical Assistants
+5940	OFFICE AND ADMINISTRATIVE SUPPORT	Office and administrative support workers, nec
+6005	FARMING, FISHING, AND FORESTRY	First-Line Supervisors of Farming, Fishing, and Forestry Workers
+6010	FARMING, FISHING, AND FORESTRY	Agricultural Inspectors
+6040	FARMING, FISHING, AND FORESTRY	Graders and Sorters, Agricultural Products
+6050	FARMING, FISHING, AND FORESTRY	Agricultural workers, nec
+6100	FARMING, FISHING, AND FORESTRY	Fishing and hunting workers
+6120	FARMING, FISHING, AND FORESTRY	Forest and Conservation Workers
+6130	FARMING, FISHING, AND FORESTRY	Logging Workers
+6200	CONSTRUCTION	First-Line Supervisors of Construction Trades and Extraction Workers
+6210	CONSTRUCTION	Boilermakers
+6220	CONSTRUCTION	Brickmasons, Blockmasons, and Stonemasons
+6230	CONSTRUCTION	Carpenters
+6240	CONSTRUCTION	Carpet, Floor, and Tile Installers and Finishers
+6250	CONSTRUCTION	Cement Masons, Concrete Finishers, and Terrazzo Workers
+6260	CONSTRUCTION	Construction Laborers
+6300	CONSTRUCTION	Paving, Surfacing, and Tamping Equipment Operators
+6320	CONSTRUCTION	Construction equipment operators except paving, surfacing, and tamping equipment operators
+6330	CONSTRUCTION	Drywall Installers, Ceiling Tile Installers, and Tapers
+6355	CONSTRUCTION	Electricians
+6360	CONSTRUCTION	Glaziers
+6400	CONSTRUCTION	Insulation Workers
+6420	CONSTRUCTION	Painters, Construction and Maintenance
+6430	CONSTRUCTION	Paperhangers
+6440	CONSTRUCTION	Pipelayers, Plumbers, Pipefitters, and Steamfitters
+6460	CONSTRUCTION	Plasterers and Stucco Masons
+6500	CONSTRUCTION	Reinforcing Iron and Rebar Workers
+6515	CONSTRUCTION	Roofers
+6520	CONSTRUCTION	Sheet Metal Workers, metal-working
+6530	CONSTRUCTION	Structural Iron and Steel Workers
+6600	CONSTRUCTION	Helpers, Construction Trades
+6660	CONSTRUCTION	Construction and Building Inspectors
+6700	CONSTRUCTION	Elevator Installers and Repairers
+6710	CONSTRUCTION	Fence Erectors
+6720	CONSTRUCTION	Hazardous Materials Removal Workers
+6730	CONSTRUCTION	Highway Maintenance Workers
+6740	CONSTRUCTION	Rail-Track Laying and Maintenance Equipment Operators
+6765	CONSTRUCTION	Construction workers, nec
+6800	EXTRACTION	Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining
+6820	EXTRACTION	Earth Drillers, Except Oil and Gas
+6830	EXTRACTION	Explosives Workers, Ordnance Handling Experts, and Blasters
+6840	EXTRACTION	Mining Machine Operators
+6940	EXTRACTION	Extraction workers, nec
+7000	INSTALLATION, MAINTENANCE, AND REPAIR	First-Line Supervisors of Mechanics, Installers, and Repairers
+7010	INSTALLATION, MAINTENANCE, AND REPAIR	Computer, Automated Teller, and Office Machine Repairers
+7020	INSTALLATION, MAINTENANCE, AND REPAIR	Radio and Telecommunications Equipment Installers and Repairers
+7030	INSTALLATION, MAINTENANCE, AND REPAIR	Avionics Technicians
+7040	INSTALLATION, MAINTENANCE, AND REPAIR	Electric Motor, Power Tool, and Related Repairers
+7100	INSTALLATION, MAINTENANCE, AND REPAIR	Electrical and electronics repairers, transportation equipment, and industrial and utility
+7110	INSTALLATION, MAINTENANCE, AND REPAIR	Electronic Equipment Installers and Repairers, Motor Vehicles
+7120	INSTALLATION, MAINTENANCE, AND REPAIR	Electronic Home Entertainment Equipment Installers and Repairers
+7125	INSTALLATION, MAINTENANCE, AND REPAIR	Electronic Repairs, nec
+7130	INSTALLATION, MAINTENANCE, AND REPAIR	Security and Fire Alarm Systems Installers
+7140	INSTALLATION, MAINTENANCE, AND REPAIR	Aircraft Mechanics and Service Technicians
+7150	INSTALLATION, MAINTENANCE, AND REPAIR	Automotive Body and Related Repairers
+7160	INSTALLATION, MAINTENANCE, AND REPAIR	Automotive Glass Installers and Repairers
+7200	INSTALLATION, MAINTENANCE, AND REPAIR	Automotive Service Technicians and Mechanics
+7210	INSTALLATION, MAINTENANCE, AND REPAIR	Bus and Truck Mechanics and Diesel Engine Specialists
+7220	INSTALLATION, MAINTENANCE, AND REPAIR	Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics
+7240	INSTALLATION, MAINTENANCE, AND REPAIR	Small Engine Mechanics
+7260	INSTALLATION, MAINTENANCE, AND REPAIR	Vehicle and Mobile Equipment Mechanics, Installers, and Repairers, nec
+7300	INSTALLATION, MAINTENANCE, AND REPAIR	Control and Valve Installers and Repairers
+7315	INSTALLATION, MAINTENANCE, AND REPAIR	Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+7320	INSTALLATION, MAINTENANCE, AND REPAIR	Home Appliance Repairers
+7330	INSTALLATION, MAINTENANCE, AND REPAIR	Industrial and Refractory Machinery Mechanics
+7340	INSTALLATION, MAINTENANCE, AND REPAIR	Maintenance and Repair Workers, General
+7350	INSTALLATION, MAINTENANCE, AND REPAIR	Maintenance Workers, Machinery
+7360	INSTALLATION, MAINTENANCE, AND REPAIR	Millwrights
+7410	INSTALLATION, MAINTENANCE, AND REPAIR	Electrical Power-Line Installers and Repairers
+7420	INSTALLATION, MAINTENANCE, AND REPAIR	Telecommunications Line Installers and Repairers
+7430	INSTALLATION, MAINTENANCE, AND REPAIR	Precision Instrument and Equipment Repairers
+7510	INSTALLATION, MAINTENANCE, AND REPAIR	Coin, Vending, and Amusement Machine Servicers and Repairers
+7540	INSTALLATION, MAINTENANCE, AND REPAIR	Locksmiths and Safe Repairers
+7550	INSTALLATION, MAINTENANCE, AND REPAIR	Manufactured Building and Mobile Home Installers
+7560	INSTALLATION, MAINTENANCE, AND REPAIR	Riggers
+7610	INSTALLATION, MAINTENANCE, AND REPAIR	Helpers--Installation, Maintenance, and Repair Workers
+7630	INSTALLATION, MAINTENANCE, AND REPAIR	Other Installation, Maintenance, and Repair Workers Including Wind Turbine Service Technicians, and Commercial Divers, and Signal and Track Switch Repairers
+7700	PRODUCTION	First-Line Supervisors of Production and Operating Workers
+7710	PRODUCTION	Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+7720	PRODUCTION	Electrical, Electronics, and Electromechanical Assemblers
+7730	PRODUCTION	Engine and Other Machine Assemblers
+7740	PRODUCTION	Structural Metal Fabricators and Fitters
+7750	PRODUCTION	Assemblers and Fabricators, nec
+7800	PRODUCTION	Bakers
+7810	PRODUCTION	Butchers and Other Meat, Poultry, and Fish Processing Workers
+7830	PRODUCTION	Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+7840	PRODUCTION	Food Batchmakers
+7850	PRODUCTION	Food Cooking Machine Operators and Tenders
+7855	PRODUCTION	Food Processing, nec
+7900	PRODUCTION	Computer Control Programmers and Operators
+7920	PRODUCTION	Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+7930	PRODUCTION	Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+7940	PRODUCTION	Rolling Machine Setters, Operators, and Tenders, metal and Plastic
+7950	PRODUCTION	Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+7960	PRODUCTION	Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+8000	PRODUCTION	Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+8010	PRODUCTION	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+8030	PRODUCTION	Machinists
+8040	PRODUCTION	Metal Furnace Operators, Tenders, Pourers, and Casters
+8060	PRODUCTION	Model Makers and Patternmakers, Metal and Plastic
+8100	PRODUCTION	Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic
+8130	PRODUCTION	Tool and Die Makers
+8140	PRODUCTION	Welding, Soldering, and Brazing Workers
+8150	PRODUCTION	Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+8200	PRODUCTION	Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
+8210	PRODUCTION	Tool Grinders, Filers, and Sharpeners
+8220	PRODUCTION	Metal workers and plastic workers, nec
+8230	PRODUCTION	Bookbinders, Printing Machine Operators, and Job Printers
+8250	PRODUCTION	Prepress Technicians and Workers
+8300	PRODUCTION	Laundry and Dry-Cleaning Workers
+8310	PRODUCTION	Pressers, Textile, Garment, and Related Materials
+8320	PRODUCTION	Sewing Machine Operators
+8330	PRODUCTION	Shoe and Leather Workers and Repairers
+8340	PRODUCTION	Shoe Machine Operators and Tenders
+8350	PRODUCTION	Tailors, Dressmakers, and Sewers
+8400	PRODUCTION	Textile bleaching and dyeing, and cutting machine setters, operators, and tenders
+8410	PRODUCTION	Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+8420	PRODUCTION	Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+8450	PRODUCTION	Upholsterers
+8460	PRODUCTION	Textile, Apparel, and Furnishings workers, nec
+8500	PRODUCTION	Cabinetmakers and Bench Carpenters
+8510	PRODUCTION	Furniture Finishers
+8530	PRODUCTION	Sawing Machine Setters, Operators, and Tenders, Wood
+8540	PRODUCTION	Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+8550	PRODUCTION	Woodworkers including model makers and patternmakers, nec
+8600	PRODUCTION	Power Plant Operators, Distributors, and Dispatchers
+8610	PRODUCTION	Stationary Engineers and Boiler Operators
+8620	PRODUCTION	Water Wastewater Treatment Plant and System Operators
+8630	PRODUCTION	Plant and System Operators, nec
+8640	PRODUCTION	Chemical Processing Machine Setters, Operators, and Tenders
+8650	PRODUCTION	Crushing, Grinding, Polishing, Mixing, and Blending Workers
+8710	PRODUCTION	Cutting Workers
+8720	PRODUCTION	Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+8730	PRODUCTION	Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+8740	PRODUCTION	Inspectors, Testers, Sorters, Samplers, and Weighers
+8750	PRODUCTION	Jewelers and Precious Stone and Metal Workers
+8760	PRODUCTION	Medical, Dental, and Ophthalmic Laboratory Technicians
+8800	PRODUCTION	Packaging and Filling Machine Operators and Tenders
+8810	PRODUCTION	Painting Workers and Dyers
+8830	PRODUCTION	Photographic Process Workers and Processing Machine Operators
+8850	PRODUCTION	Adhesive Bonding Machine Operators and Tenders
+8860	PRODUCTION	Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+8910	PRODUCTION	Etchers, Engravers, and Lithographers
+8920	PRODUCTION	Molders, Shapers, and Casters, Except Metal and Plastic
+8930	PRODUCTION	Paper Goods Machine Setters, Operators, and Tenders
+8940	PRODUCTION	Tire Builders
+8950	PRODUCTION	Helpers--Production Workers
+8965	PRODUCTION	Other production workers including semiconductor processors and cooling and freezing equipment operators
+9000	TRANSPORTATION AND MATERIAL MOVING	Supervisors of Transportation and Material Moving Workers
+9030	TRANSPORTATION AND MATERIAL MOVING	Aircraft Pilots and Flight Engineers
+9040	TRANSPORTATION AND MATERIAL MOVING	Air Traffic Controllers and Airfield Operations Specialists
+9050	TRANSPORTATION AND MATERIAL MOVING	Flight Attendants and Transportation Workers and Attendants
+9100	TRANSPORTATION AND MATERIAL MOVING	Bus and Ambulance Drivers and Attendants
+9130	TRANSPORTATION AND MATERIAL MOVING	Driver/Sales Workers and Truck Drivers
+9140	TRANSPORTATION AND MATERIAL MOVING	Taxi Drivers and Chauffeurs
+9150	TRANSPORTATION AND MATERIAL MOVING	Motor Vehicle Operators, All Other
+9200	TRANSPORTATION AND MATERIAL MOVING	Locomotive Engineers and Operators
+9230	TRANSPORTATION AND MATERIAL MOVING	Railroad Brake, Signal, and Switch Operators
+9240	TRANSPORTATION AND MATERIAL MOVING	Railroad Conductors and Yardmasters
+9260	TRANSPORTATION AND MATERIAL MOVING	Subway, Streetcar, and Other Rail Transportation Workers
+9300	TRANSPORTATION AND MATERIAL MOVING	Sailors and marine oilers, and ship engineers
+9310	TRANSPORTATION AND MATERIAL MOVING	Ship and Boat Captains and Operators
+9350	TRANSPORTATION AND MATERIAL MOVING	Parking Lot Attendants
+9360	TRANSPORTATION AND MATERIAL MOVING	Automotive and Watercraft Service Attendants
+9410	TRANSPORTATION AND MATERIAL MOVING	Transportation Inspectors
+9420	TRANSPORTATION AND MATERIAL MOVING	Transportation workers, nec
+9510	TRANSPORTATION AND MATERIAL MOVING	Crane and Tower Operators
+9520	TRANSPORTATION AND MATERIAL MOVING	Dredge, Excavating, and Loading Machine Operators
+9560	TRANSPORTATION AND MATERIAL MOVING	Conveyor operators and tenders, and hoist and winch operators
+9600	TRANSPORTATION AND MATERIAL MOVING	Industrial Truck and Tractor Operators
+9610	TRANSPORTATION AND MATERIAL MOVING	Cleaners of Vehicles and Equipment
+9620	TRANSPORTATION AND MATERIAL MOVING	Laborers and Freight, Stock, and Material Movers, Hand
+9630	TRANSPORTATION AND MATERIAL MOVING	Machine Feeders and Offbearers
+9640	TRANSPORTATION AND MATERIAL MOVING	Packers and Packagers, Hand
+9650	TRANSPORTATION AND MATERIAL MOVING	Pumping Station Operators
+9720	TRANSPORTATION AND MATERIAL MOVING	Refuse and Recyclable Material Collectors
+9750	TRANSPORTATION AND MATERIAL MOVING	Material moving workers, nec
+9800	MILITARY SPECIFIC	Military Officer Special and Tactical Operations Leaders
+9810	MILITARY SPECIFIC	First-Line Enlisted Military Supervisors
+9820	MILITARY SPECIFIC	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members
+9830	MILITARY SPECIFIC	Military, Rank Not Specified
+9920	UNEMPLOYED OR NEVER WORKED	Unemployed, with No Work Experience in the Last 5 Years or Earlier or Never Worked
+9999	UNEMPLOYED OR NEVER WORKED	Unemployed, with No Work Experience in the Last 5 Years or Earlier or Never Worked

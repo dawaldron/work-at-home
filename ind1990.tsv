@@ -1,0 +1,246 @@
+IND1990	IndGroup	IndustryTitle
+000	NIU	NIU
+010	AGRICULTURE, FORESTRY, AND FISHERIES	Agricultural production, crops
+011	AGRICULTURE, FORESTRY, AND FISHERIES	Agricultural production, livestock
+012	AGRICULTURE, FORESTRY, AND FISHERIES	Veterinary services
+020	AGRICULTURE, FORESTRY, AND FISHERIES	Landscape and horticultural services
+030	AGRICULTURE, FORESTRY, AND FISHERIES	Agricultural services, n.e.c.
+031	AGRICULTURE, FORESTRY, AND FISHERIES	Forestry
+032	AGRICULTURE, FORESTRY, AND FISHERIES	Fishing, hunting, and trapping
+040	MINING	Metal mining
+041	MINING	Coal mining
+042	MINING	Oil and gas extraction
+050	MINING	Nonmetallic mining and quarrying, except fuels
+060	CONSTRUCTION	All construction
+100	MANUFACTURING	Meat products
+101	MANUFACTURING	Dairy products
+102	MANUFACTURING	Canned, frozen, and preserved fruits and vegetables
+110	MANUFACTURING	Grain mill products
+111	MANUFACTURING	Bakery products
+112	MANUFACTURING	Sugar and confectionery products
+120	MANUFACTURING	Beverage industries
+121	MANUFACTURING	Misc. food preparations and kindred products
+122	MANUFACTURING	Food industries, n.s.
+130	MANUFACTURING	Tobacco manufactures
+132	MANUFACTURING	Knitting mills
+140	MANUFACTURING	Dyeing and finishing textiles, except wool and knit goods
+141	MANUFACTURING	Carpets and rugs
+142	MANUFACTURING	Yarn, thread, and fabric mills
+150	MANUFACTURING	Miscellaneous textile mill products
+151	MANUFACTURING	Apparel and accessories, except knit
+152	MANUFACTURING	Miscellaneous fabricated textile products
+160	MANUFACTURING	Pulp, paper, and paperboard mills
+161	MANUFACTURING	Miscellaneous paper and pulp products
+162	MANUFACTURING	Paperboard containers and boxes
+171	MANUFACTURING	Newspaper publishing and printing
+172	MANUFACTURING	Printing, publishing, and allied industries, except newspapers
+180	MANUFACTURING	Plastics, synthetics, and resins
+181	MANUFACTURING	Drugs
+182	MANUFACTURING	Soaps and cosmetics
+190	MANUFACTURING	Paints, varnishes, and related products
+191	MANUFACTURING	Agricultural chemicals
+192	MANUFACTURING	Industrial and miscellaneous chemicals
+200	MANUFACTURING	Petroleum refining
+201	MANUFACTURING	Miscellaneous petroleum and coal products
+210	MANUFACTURING	Tires and inner tubes
+211	MANUFACTURING	Other rubber products, and plastics footwear and belting
+212	MANUFACTURING	Miscellaneous plastics products
+220	MANUFACTURING	Leather tanning and finishing
+221	MANUFACTURING	Footwear, except rubber and plastic
+222	MANUFACTURING	Leather products, except footwear
+229	MANUFACTURING	Manufacturing, non-durable - allocated
+230	MANUFACTURING	Logging
+231	MANUFACTURING	Sawmills, planing mills, and millwork
+232	MANUFACTURING	Wood buildings and mobile homes
+241	MANUFACTURING	Miscellaneous wood products
+242	MANUFACTURING	Furniture and fixtures
+250	MANUFACTURING	Glass and glass products
+251	MANUFACTURING	Cement, concrete, gypsum, and plaster products
+252	MANUFACTURING	Structural clay products
+261	MANUFACTURING	Pottery and related products
+262	MANUFACTURING	Misc. nonmetallic mineral and stone products
+270	MANUFACTURING	Blast furnaces, steelworks, rolling and finishing mills
+271	MANUFACTURING	Iron and steel foundries
+272	MANUFACTURING	Primary aluminum industries
+280	MANUFACTURING	Other primary metal industries
+281	MANUFACTURING	Cutlery, handtools, and general hardware
+282	MANUFACTURING	Fabricated structural metal products
+290	MANUFACTURING	Screw machine products
+291	MANUFACTURING	Metal forgings and stampings
+292	MANUFACTURING	Ordnance
+300	MANUFACTURING	Miscellaneous fabricated metal products
+301	MANUFACTURING	Metal industries, n.s.
+310	MANUFACTURING	Engines and turbines
+311	MANUFACTURING	Farm machinery and equipment
+312	MANUFACTURING	Construction and material handling machines
+320	MANUFACTURING	Metalworking machinery
+321	MANUFACTURING	Office and accounting machines
+322	MANUFACTURING	Computers and related equipment
+331	MANUFACTURING	Machinery, except electrical, n.e.c.
+332	MANUFACTURING	Machinery, n.s.
+340	MANUFACTURING	Household appliances
+341	MANUFACTURING	Radio, TV, and communication equipment
+342	MANUFACTURING	Electrical machinery, equipment, and supplies, n.e.c.
+350	MANUFACTURING	Electrical machinery, equipment, and supplies, n.s.
+351	MANUFACTURING	Motor vehicles and motor vehicle equipment
+352	MANUFACTURING	Aircraft and parts
+360	MANUFACTURING	Ship and boat building and repairing
+361	MANUFACTURING	Railroad locomotives and equipment
+362	MANUFACTURING	Guided missiles, space vehicles, and parts
+370	MANUFACTURING	Cycles and miscellaneous transportation equipment
+371	MANUFACTURING	Scientific and controlling instruments
+372	MANUFACTURING	Medical, dental, and optical instruments and supplies
+380	MANUFACTURING	Photographic equipment and supplies
+381	MANUFACTURING	Watches, clocks, and clockwork operated devices
+390	MANUFACTURING	Toys, amusement, and sporting goods
+391	MANUFACTURING	Miscellaneous manufacturing industries
+392	MANUFACTURING	Manufacturing industries, n.s.
+400	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Railroads
+401	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Bus service and urban transit
+402	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Taxicab service
+410	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Trucking service
+411	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Warehousing and storage
+412	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	U.S. Postal Service
+420	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Water transportation
+421	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Air transportation
+422	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Pipe lines, except natural gas
+432	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Services incidental to transportation
+440	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Radio and television broadcasting and cable
+441	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Wired communications
+442	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Telegraph and miscellaneous communications services
+450	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Electric light and power
+451	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Gas and steam supply systems
+452	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Electric and gas, and other combinations
+470	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Water supply and irrigation
+471	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Sanitary services
+472	TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES	Utilities, n.s.
+500	WHOLESALE TRADE	Motor vehicles and equipment
+501	WHOLESALE TRADE	Furniture and home furnishings
+502	WHOLESALE TRADE	Lumber and construction materials
+510	WHOLESALE TRADE	Professional and commercial equipment and supplies
+511	WHOLESALE TRADE	Metals and minerals, except petroleum
+512	WHOLESALE TRADE	Electrical goods
+521	WHOLESALE TRADE	Hardware, plumbing and heating supplies
+530	WHOLESALE TRADE	Machinery, equipment, and supplies
+531	WHOLESALE TRADE	Scrap and waste materials
+532	WHOLESALE TRADE	Miscellaneous wholesale, durable goods
+540	WHOLESALE TRADE	Paper and paper products
+541	WHOLESALE TRADE	Drugs, chemicals, and allied products
+542	WHOLESALE TRADE	Apparel, fabrics, and notions
+550	WHOLESALE TRADE	Groceries and related products
+551	WHOLESALE TRADE	Farm-product raw materials
+552	WHOLESALE TRADE	Petroleum products
+560	WHOLESALE TRADE	Alcoholic beverages
+561	WHOLESALE TRADE	Farm supplies
+562	WHOLESALE TRADE	Miscellaneous wholesale, nondurable goods
+571	WHOLESALE TRADE	Wholesale trade, n.s.
+580	RETAIL TRADE	Lumber and building material retailing
+581	RETAIL TRADE	Hardware stores
+582	RETAIL TRADE	Retail nurseries and garden stores
+590	RETAIL TRADE	Mobile home dealers
+591	RETAIL TRADE	Department stores
+592	RETAIL TRADE	Variety stores
+600	RETAIL TRADE	Miscellaneous general merchandise stores
+601	RETAIL TRADE	Grocery stores
+602	RETAIL TRADE	Dairy products stores
+610	RETAIL TRADE	Retail bakeries
+611	RETAIL TRADE	Food stores, n.e.c.
+612	RETAIL TRADE	Motor vehicle dealers
+620	RETAIL TRADE	Auto and home supply stores
+621	RETAIL TRADE	Gasoline service stations
+622	RETAIL TRADE	Miscellaneous vehicle dealers
+623	RETAIL TRADE	Apparel and accessory stores, except shoe
+630	RETAIL TRADE	Shoe stores
+631	RETAIL TRADE	Furniture and home furnishings stores
+632	RETAIL TRADE	Household appliance stores
+633	RETAIL TRADE	Radio, TV, and computer stores
+640	RETAIL TRADE	Music stores
+641	RETAIL TRADE	Eating and drinking places
+642	RETAIL TRADE	Drug stores
+650	RETAIL TRADE	Liquor stores
+651	RETAIL TRADE	Sporting goods, bicycles, and hobby stores
+652	RETAIL TRADE	Book and stationery stores
+660	RETAIL TRADE	Jewelry stores
+661	RETAIL TRADE	Gift, novelty, and souvenir shops
+662	RETAIL TRADE	Sewing, needlework, and piece goods stores
+663	RETAIL TRADE	Catalog and mail order houses
+670	RETAIL TRADE	Vending machine operators
+671	RETAIL TRADE	Direct selling establishments
+672	RETAIL TRADE	Fuel dealers
+681	RETAIL TRADE	Retail florists
+682	RETAIL TRADE	Miscellaneous retail stores
+691	RETAIL TRADE	Retail trade, n.s.
+700	FINANCE AND INSURANCE	Banking
+701	FINANCE AND INSURANCE	Savings institutions, including credit unions
+702	FINANCE AND INSURANCE	Credit agencies, n.e.c.
+710	FINANCE AND INSURANCE	Security, commodity brokerage, and investment companies
+711	FINANCE AND INSURANCE	Insurance
+712	REAL ESTATE, RENTAL, AND LEASING	Real estate, including real estate-insurance offices
+721	BUSINESS SERVICES	Advertising
+722	BUSINESS SERVICES	Services to dwellings and other buildings
+731	BUSINESS SERVICES	Personnel supply services
+732	BUSINESS SERVICES	Computer and data processing services
+740	BUSINESS SERVICES	Detective and protective services
+741	BUSINESS SERVICES	Business services, n.e.c.
+742	REAL ESTATE, RENTAL, AND LEASING	Automotive rental and leasing, without drivers
+750	OTHER SERVICES	Automobile parking and carwashes
+751	OTHER SERVICES	Automotive repair and related services
+752	OTHER SERVICES	Electrical repair shops
+760	OTHER SERVICES	Miscellaneous repair services
+761	PERSONAL SERVICES	Private households
+762	PERSONAL SERVICES	Hotels and motels
+770	PERSONAL SERVICES	Lodging places, except hotels and motels
+771	PERSONAL SERVICES	Laundry, cleaning, and garment services
+772	PERSONAL SERVICES	Beauty shops
+780	PERSONAL SERVICES	Barber shops
+781	PERSONAL SERVICES	Funeral service and crematories
+782	PERSONAL SERVICES	Shoe repair shops
+790	PERSONAL SERVICES	Dressmaking shops
+791	PERSONAL SERVICES	Miscellaneous personal services
+800	ENTERTAINMENT AND RECREATION SERVICES	Theaters and motion pictures
+801	ENTERTAINMENT AND RECREATION SERVICES	Video tape rental
+802	ENTERTAINMENT AND RECREATION SERVICES	Bowling centers
+810	ENTERTAINMENT AND RECREATION SERVICES	Miscellaneous entertainment and recreation services
+812	HEALTHCARE AND SOCIAL ASSISTANCE	Offices and clinics of physicians
+820	HEALTHCARE AND SOCIAL ASSISTANCE	Offices and clinics of dentists
+821	HEALTHCARE AND SOCIAL ASSISTANCE	Offices and clinics of chiropractors
+822	HEALTHCARE AND SOCIAL ASSISTANCE	Offices and clinics of optometrists
+830	HEALTHCARE AND SOCIAL ASSISTANCE	Offices and clinics of health practitioners, n.e.c.
+831	HEALTHCARE AND SOCIAL ASSISTANCE	Hospitals
+832	HEALTHCARE AND SOCIAL ASSISTANCE	Nursing and personal care facilities
+840	HEALTHCARE AND SOCIAL ASSISTANCE	Health services, n.e.c.
+841	PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES	Legal services
+842	EDUCATIONAL SERVICES	Elementary and secondary schools
+850	EDUCATIONAL SERVICES	Colleges and universities
+851	EDUCATIONAL SERVICES	Vocational schools
+852	EDUCATIONAL SERVICES	Libraries
+860	EDUCATIONAL SERVICES	Educational services, n.e.c.
+861	HEALTHCARE AND SOCIAL ASSISTANCE	Job training and vocational rehabilitation services
+862	HEALTHCARE AND SOCIAL ASSISTANCE	Child day care services
+863	HEALTHCARE AND SOCIAL ASSISTANCE	Family child care homes
+870	HEALTHCARE AND SOCIAL ASSISTANCE	Residential care facilities, without nursing
+871	HEALTHCARE AND SOCIAL ASSISTANCE	Social services, n.e.c.
+872	ENTERTAINMENT AND RECREATION SERVICES	Museums, art galleries, and zoos
+873	OTHER SERVICES	Labor unions
+880	OTHER SERVICES	Religious organizations
+881	OTHER SERVICES	Membership organizations, n.e.c.
+882	PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES	Engineering, architectural, and surveying services
+890	PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES	Accounting, auditing, and bookkeeping services
+891	PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES	Research, development, and testing services
+892	PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES	Management and public relations services
+893	PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES	Miscellaneous professional and related services
+900	PUBLIC ADMINISTRATION	Executive and legislative offices
+901	PUBLIC ADMINISTRATION	General government, n.e.c.
+910	PUBLIC ADMINISTRATION	Justice, public order, and safety
+921	PUBLIC ADMINISTRATION	Public finance, taxation, and monetary policy
+922	PUBLIC ADMINISTRATION	Administration of human resources programs
+930	PUBLIC ADMINISTRATION	Administration of environmental quality and housing programs
+931	PUBLIC ADMINISTRATION	Administration of economic programs
+932	PUBLIC ADMINISTRATION	National security and international affairs
+940	MILITARY	Army
+941	MILITARY	Air Force
+942	MILITARY	Navy
+950	MILITARY	Marines
+951	MILITARY	Coast Guard
+952	MILITARY	Armed Forces, branch not specified
+960	MILITARY	Military Reserves or National Guard
